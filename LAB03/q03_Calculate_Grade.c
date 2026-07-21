@@ -8,7 +8,7 @@ int main(){
     scanf("%d %d %d %d %d %d",&g1, &g2, &g3, &g4, &g5, &g6);
 
     printf("Grade announcement 1/2568: %s\n",info);
-    printf("GPS/GPA: %.2lf",(double) (g1+g2+g3+g4+g5+g6)/6);
+    printf("GPS/GPA: %.2lf",(double)(g1+g2+g3+g4+g5+g6)/6;
 
     return 0;
 };
